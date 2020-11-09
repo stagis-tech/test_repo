@@ -67,8 +67,8 @@ token = args.token
 
 # Basis-Infos des Git Repos
 
-!git config --global user.email 'info@claushesseling.de'
-!git config --global user.name 'stagis-tech'
+git config --global user.email 'info@claushesseling.de'
+git config --global user.name 'stagis-tech'
 
 # Wir clonen die Inhalte des Gits in unseren lokalen Speicher
 
