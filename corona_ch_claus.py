@@ -41,7 +41,7 @@ Infektionen_Total = df['Fallzahlen pro Tag, kumuliert'].iloc[-1]
 Hospitalisationen_Total = df['Hospitalisationen pro Tag, Kumuliert'].iloc[-1]
 Todesfälle_Total = df['Todesfälle pro Tag, kumuliert'].iloc[-1]
 
-Mein_Text = "Heute {} meldet das Bundesamt für Gesundheit BAG für die vergangenen 24 Stunden {} Neuinfektionen mit dem Coronavirus. {} Personen mussten hospitalisiert werden. {} Personen verstarben an Covid-19. In den letzten 7 Tagen gab es durchschnittlich {} Neuinfektionen pro Tag, {} Personen mussten hospitalisiert werden und {} Menschen verstarben. Seit Beginn der Pandemie infizierten sich {} Menschen. Es wurden gesamthaft {} Personen hospitalisiert und {} Menschen verstarben.".format(Datum, Neuinfektionen_heute, Hospitalisationen_heute, Todesfälle_heute, Durchschnitt_Woche_Neuinfektionen, Durchschnitt_Woche_Hospitalisationen, Durchschnitt_Woche_Todesfälle, Infektionen_Total, Hospitalisationen_Total, Todesfälle_Total)
+Mein_Text = "Heute {} meldet das Bundesamt für Gesundheit (BAG) für die vergangenen 24 Stunden {} Neuinfektionen mit dem Coronavirus. {} Personen mussten hospitalisiert werden. {} Personen verstarben an Covid-19. In den letzten 7 Tagen gab es durchschnittlich {} Neuinfektionen pro Tag, {} Personen mussten hospitalisiert werden und {} Menschen verstarben. Seit Beginn der Pandemie infizierten sich {} Menschen. Es wurden gesamthaft {} Personen hospitalisiert und {} Menschen verstarben.".format(Datum, Neuinfektionen_heute, Hospitalisationen_heute, Todesfälle_heute, Durchschnitt_Woche_Neuinfektionen, Durchschnitt_Woche_Hospitalisationen, Durchschnitt_Woche_Todesfälle, Infektionen_Total, Hospitalisationen_Total, Todesfälle_Total)
 
 print (Mein_Text)
 
