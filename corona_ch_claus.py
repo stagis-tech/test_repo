@@ -56,7 +56,7 @@ print (Mein_Text)
 
 dateiname = "claus_test1.txt"
 
-text_file = open("/test_repos/" + dateiname, "w")
+text_file = open("./test_repo/" + dateiname, "w")
 text_file.write(Mein_Text)
 text_file.close()
 
