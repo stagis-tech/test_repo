@@ -137,7 +137,7 @@ body4="\n"
 dateiname = "heidi_test1.txt"
 #%%
 
-text_file = open("./test_repo/" + dateiname, "w")
+text_file = open("./test_repo/reports" + dateiname, "w")
 #if date.today().strftime('%Y-%m-%d')!=BAGcasesCH['datum'].iloc[-1]: 
   #text_file.write("%s\n%s\n" % (header, weekend))
 
