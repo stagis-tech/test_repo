@@ -150,6 +150,3 @@ text_file.close()
 
 print ('Erledigt. ', dateiname, 'wurde hochgeladen.')
 
-open(dateiname).read()
-
-Cases_7d
