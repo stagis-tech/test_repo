@@ -7,7 +7,7 @@ df.dropna()
 
 df.describe()
 
-df['Fallzahlen pro Tag'].plot.line()
+#df['Fallzahlen pro Tag'].plot.line()
 
 df['Fallzahlen pro Tag, kumuliert'].iloc[-1]
 
@@ -46,11 +46,11 @@ datumch = datumus.strftime(format = "%d.%m.%Y")
 
 titel = "Tagesübersicht vom {}".format(datumch)
 
-print(titel)
+#print(titel)
 
 mein_text = "\nHeute meldet das Bundesamt für Gesundheit für die vergangenen 24 Stunden {} Infektionen mit dem neuartigen Coronavirus. {} {} hospitalisiert werden und {} Todesfälle zählt das BAG als Folge einer Corona-Infektion. Die Inzidenz beläuft sich auf {} Fälle pro 100 000 Einwohner. Im Durchschnitt der letzten 7 Tage steckten sich täglich {} Personen mit dem neuartigen Coronavirus an, {} Personen mussten hospitalisiert werden und {} Menschen starben an den Folgen der Infektion. Die Inzidenz im 7-Tage-Schnitt beläuft sich auf {} pro 100 000 Einwohner. Seit Beginn der Pandemie gab es in der Schweiz {} positive Corona-Tests. Insgesamt {} Personen mussten aufgrund einer Infektion ins Spital eingeliefert werden und {} Personen sind bisher an den Folgen an einer Corona-Infektion verstorben.".format(infektionen_heute, hospitalisationen_heute, hosptext, todesfaelle_heute, inzidenz_heute, infektionen_7, hospitalisationen_7, todesfaelle_7, inzidenz_7, infektionen_tot, hospitalisationen_tot, todesfaelle_tot)
 
-print(mein_text)
+#print(mein_text)
 
 df.sort_values(by='Fallzahlen pro Tag', ascending = True).dropna()
 
@@ -97,15 +97,15 @@ faelle_kanton_max_wert= faelle_kanton_max['Bestätigte Fälle.1']
 kanton_max = faelle_kanton_max['name'] 
 anteil_kanton_max = int(100/df_kantone['Bestätigte Fälle.1'].max()*faelle_kanton_max_wert) #Prozentsatz der totalen Fälle im Kanton mit den meisten Fällen als Ganze Zahl.
 
-print(anteil_kanton_max)
+#print(anteil_kanton_max)
 
-print(faelle_kanton_max)
+#print(faelle_kanton_max)
 
 faelle_kanton_min =  df_kantone_neu.sort_values(by = 'Bestätigte Fälle.1', ascending= False).iloc[-1].dropna()
 faelle_kanton_min_wert = faelle_kanton_min['Bestätigte Fälle.1']
 faelle_kanton_min_text = faelle_kanton_min['name'] + faelle_kanton_min[ 'Unnamed: 2' ]
 
-print(faelle_kanton_min)
+#print(faelle_kanton_min)
 
 inzidenz_CH_tot =int(df_kantone['Inzidenz/100 000.1'].iloc[-1])
 inzidenz_kanton_max =df_kantone_neu.sort_values(by = 'Inzidenz/100 000.1', ascending = True).iloc[-1].dropna()
@@ -113,11 +113,11 @@ inzidenz_kanton_max_wert = inzidenz_kanton_max['Inzidenz/100 000.1']
 inzidenz_kanton_max_text = inzidenz_kanton_max['name'] 
 vergleich_inzidenz_max = inzidenz_kanton_max_wert/inzidenz_CH_tot
 
-print(inzidenz_kanton_max)
+#print(inzidenz_kanton_max)
 
-print(inzidenz_CH_tot)
+#print(inzidenz_CH_tot)
 
-print(vergleich_inzidenz_max)
+#print(vergleich_inzidenz_max)
 
 inzidenz_kanton_min =df_kantone_neu.sort_values(by = 'Inzidenz/100 000.1', ascending = False).iloc[-1].dropna()
 inzidenz_kanton_min_wert = inzidenz_kanton_min['Inzidenz/100 000.1']
@@ -126,15 +126,15 @@ vergleich_inzidenz_min = inzidenz_kanton_min_wert/inzidenz_CH_tot
 
 text_kantone_faelle_max = "\nÜber die letzten 14 Tage gerechnet wurden in der Schweiz insgesamt {} Fälle gemeldet. {} davon im Kanton {}. Somit meldet der Kanton {} mit {}% aller Fälle der Schweiz die meisten Neuinfektionen.".format(faelle_14_CH_tot, faelle_kanton_max_wert, kanton_max, kanton_max, anteil_kanton_max, )
 
-print (text_kantone_faelle_max)
+#print (text_kantone_faelle_max)
 
 text_kantone_faelle_min = "Mit {} Fällen meldet der Kanton {} absolut gesehen am wenigsten Neuinfektionen über die letzten 14 Tage.".format(faelle_kanton_min_wert, faelle_kanton_min_text)
 
-print(text_kantone_faelle_min)
+#print(text_kantone_faelle_min)
 
 text_inzidenz_max1 = "\nDie höchste Inzidenz weist jedoch der Kanton {} auf und meldet für die letzten 14 Tage eine Inzidenz von {} Neuinfektionen pro 100 000 Einwohner.".format(inzidenz_kanton_max_text, int(inzidenz_kanton_max_wert))
 
-print(text_inzidenz_max1)
+#print(text_inzidenz_max1)
 
 if inzidenz_kanton_max_wert > inzidenz_CH_tot:
   vergleicher = ("mal grösser als")
@@ -143,25 +143,26 @@ elif inzidenz_kanton_max_wert < inzidenz_CH_tot:
 else:
   vergleicher = ("gleich gross wie")
 
-print(vergleicher)
+#print(vergleicher)
 
 text_inzidenz_max2 = "Über die ganze Schweiz gesehen beträgt die Inzidenz {}. Somit ist die Inzidenz im Kanton {} {} {} die Inzidenz in der gesamten Schweiz.".format(int(inzidenz_CH_tot), inzidenz_kanton_max_text, round(vergleich_inzidenz_max, 2), vergleicher)
 
-print(text_inzidenz_max2)
+#print(text_inzidenz_max2)
 
 text_inzidenz_min = "Der Kanton {} hat mit {} noch die tiefste Inzidenz. Sie ist nur {} so hoch wie der Schweizer Durschnitt.".format(inzidenz_kanton_min_text,int(inzidenz_kanton_min_wert), round(vergleich_inzidenz_min, 2))
 
 print(text_inzidenz_min)
 
 #Alle Texte zusammen:
-print(titel,mein_text, mein_text2, mein_text3,text_kantone_faelle_max,text_kantone_faelle_min,text_inzidenz_max1,text_inzidenz_max2,text_inzidenz_min,sep="\n")
+#print(titel,mein_text, mein_text2, mein_text3,text_kantone_faelle_max,text_kantone_faelle_min,text_inzidenz_max1,text_inzidenz_max2,text_inzidenz_min,sep="\n")
 
 #Wochenaufgabe 3:
 
 dateiname = "fabian_kohler_corona.txt"
-
-text_file = open("./test_repo/reports/" + dateiname, "w")
-text_file.write(titel,mein_text, mein_text2, mein_text3,text_kantone_faelle_max,text_kantone_faelle_min,text_inzidenz_max1,text_inzidenz_max2,text_inzidenz_min,sep="\n")
+full_text = titel + mein_text + mein_text2 + mein_text3 + text_kantone_faelle_max + text_kantone_faelle_min + text_inzidenz_max1 + text_inzidenz_max2 + text_inzidenz_min
+print (full_text)
+text_file = open("./test_repos/" + dateiname, "w")
+text_file.write(full_text)
 text_file.close()
 
 print ('Erledigt. ', dateiname, 'wurde hochgeladen.')
