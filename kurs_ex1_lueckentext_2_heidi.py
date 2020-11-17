@@ -138,13 +138,13 @@ dateiname = "heidi_test1.txt"
 #%%
 
 text_file = open("./test_repo/reports" + dateiname, "w")
-#if date.today().strftime('%Y-%m-%d')!=BAGcasesCH['datum'].iloc[-1]: 
-  #text_file.write("%s\n%s\n" % (header, weekend))
+if date.today().strftime('%Y-%m-%d')!=BAGcasesCH['datum'].iloc[-1]: 
+  text_file.write("%s\n%s\n" % (header, weekend))
 
-#else:
-#  text_file.write("%s\n%s\n%s\n%s\n%s\n%s\n" % (header, body, body0, body1, body2, body3))
-#
-text_file.write("%s\n%s\n%s\n%s\n%s\n%s\n" % (header, body, body0, body1, body2, body3))
+else:
+  text_file.write("%s\n%s\n%s\n%s\n%s\n%s\n" % (header, body, body0, body1, body2, body3))
+
+#text_file.write("%s\n%s\n%s\n%s\n%s\n%s\n" % (header, body, body0, body1, body2, body3))
 text_file.close()
 
 
