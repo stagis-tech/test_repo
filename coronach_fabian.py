@@ -160,9 +160,9 @@ print(titel,mein_text, mein_text2, mein_text3,text_kantone_faelle_max,text_kanto
 
 dateiname = "fabian_kohler_corona.txt"
 
-#text_file = open("./test_repos/" + dateiname, "w")
-#text_file.write(titel,mein_text, mein_text2, mein_text3,text_kantone_faelle_max,text_kantone_faelle_min,text_inzidenz_max1,text_inzidenz_max2,text_inzidenz_min,sep="\n")
-#text_file.close()
+text_file = open("./test_repo/reports/" + dateiname, "w")
+text_file.write(titel,mein_text, mein_text2, mein_text3,text_kantone_faelle_max,text_kantone_faelle_min,text_inzidenz_max1,text_inzidenz_max2,text_inzidenz_min,sep="\n")
+text_file.close()
 
 print ('Erledigt. ', dateiname, 'wurde hochgeladen.')
 
