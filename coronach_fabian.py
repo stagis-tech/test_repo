@@ -161,7 +161,7 @@ print(text_inzidenz_min)
 dateiname = "fabian_kohler_corona.txt"
 full_text = titel + mein_text + mein_text2 + mein_text3 + text_kantone_faelle_max + text_kantone_faelle_min + text_inzidenz_max1 + text_inzidenz_max2 + text_inzidenz_min
 print (full_text)
-text_file = open("./test_repos/" + dateiname, "w")
+text_file = open("./test_repo/reports/" + dateiname, "w")
 text_file.write(full_text)
 text_file.close()
 
