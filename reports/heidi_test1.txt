@@ -1,14 +1,17 @@
-Corona-Briefing vom 23/11/2020
+Corona-Briefing vom 24/11/2020
 
 
-Heute melden die Labore total 10348 neue Fälle. Diese neu diagnostizierten Fälle verteilen sich auf die vergangenen Tage.
-
-Die durchschnittliche Positivitätsrate der letzten sieben Tage liegt bei 21.1 %, also deutlich über den von der WHO empfohlenen 5 %. Die Anzahl Erkrankter wird wahrscheinlich unterschätzt.
-
-In den letzten sieben Tagen wurden pro Tag durchschnittlich 4096 Fälle gemeldet. Das sind -28.7 % weniger als der Durchschnitt der sieben Tage davor (5741).
+Das BAG veröffentlicht von Montag bis Freitag jeweils um die Mittagszeit die aktuellen Daten. Zurzeit finden Sie hier noch den Stand des letzten Werktags.
 
 
-Gestern waren 1.84 Mio. SwissCovid-Apps aktiv. Das sind 61.3 % der erwünschten 3 Mio. aktiven Apps. 
+Am Montag meldeten die Labore total 10348 neue Fälle. Diese neu diagnostizierten Fälle verteilten sich auf die vergangenen Tage.
+
+Die durchschnittliche Positivitätsrate der letzten sieben Tage lag am Montag bei 21.1 %, also deutlich über den von der WHO empfohlenen 5 %. Die Anzahl Erkrankter wird wahrscheinlich unterschätzt.
+
+In den sieben Tagen vor Montag wurden pro Tag durchschnittlich 4096 Fälle gemeldet. Das waren -28.7 % weniger als der Durchschnitt der sieben Tage davor (5741).
 
 
-Der aktuell am stärksten betroffene Kanton ist zurzeit Waadt mit einer mittleren Inzidenz von 70.89 Fällen pro 100'000 Einwohner*innen (gemittelt über sieben Tage).
+Zuletzt waren 1.84 Mio. SwissCovid-Apps aktiv. Das sind 61.3 % der erwünschten 3 Mio. aktiven Apps. 
+
+
+Der aktuell am stärksten betroffene Kanton war am Montag Waadt mit einer mittleren Inzidenz von 70.89 Fällen pro 100'000 Einwohner*innen (gemittelt über sieben Tage).
