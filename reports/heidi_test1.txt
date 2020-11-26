@@ -1,14 +1,17 @@
-Corona-Briefing vom 26/11/2020
+Corona-Briefing vom 27/11/2020
 
 
-Heute melden die Labore total 4869 neue Fälle. Diese neu diagnostizierten Fälle verteilen sich auf die vergangenen Tage.
-
-Die durchschnittliche Positivitätsrate der letzten sieben Tage liegt bei 19.3 %, also deutlich über den von der WHO empfohlenen 5 %. Die Anzahl Erkrankter wird wahrscheinlich unterschätzt.
-
-In den letzten sieben Tagen wurden pro Tag durchschnittlich 3629 Fälle gemeldet. Das sind -28.3 % weniger als der Durchschnitt der sieben Tage davor (5059).
+Das BAG veröffentlicht von Montag bis Freitag jeweils um die Mittagszeit die aktuellen Daten. Zurzeit finden Sie hier noch den Stand des letzten Werktags.
 
 
-Gestern waren 1.84 Mio. SwissCovid-Apps aktiv. Das sind 61.3 % der erwünschten 3 Mio. aktiven Apps. 
+Am Donnerstag meldeten die Labore total 4869 neue Fälle. Diese neu diagnostizierten Fälle verteilten sich auf die vergangenen Tage.
+
+Die durchschnittliche Positivitätsrate der letzten sieben Tage lag am Donnerstag bei 19.3 %, also deutlich über den von der WHO empfohlenen 5 %. Die Anzahl Erkrankter wird wahrscheinlich unterschätzt.
+
+In den sieben Tagen vor Donnerstag wurden pro Tag durchschnittlich 3629 Fälle gemeldet. Das waren -28.3 % weniger als der Durchschnitt der sieben Tage davor (5059).
 
 
-Der aktuell am stärksten betroffene Kanton ist zurzeit Tessin mit einer mittleren Inzidenz von 65.72 Fällen pro 100'000 Einwohner*innen (gemittelt über sieben Tage).
+Zuletzt waren 1.84 Mio. SwissCovid-Apps aktiv. Das sind 61.3 % der erwünschten 3 Mio. aktiven Apps. 
+
+
+Der aktuell am stärksten betroffene Kanton war am Donnerstag Tessin mit einer mittleren Inzidenz von 65.72 Fällen pro 100'000 Einwohner*innen (gemittelt über sieben Tage).
