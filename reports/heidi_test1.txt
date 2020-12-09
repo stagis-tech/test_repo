@@ -8,7 +8,7 @@ Die durchschnittliche Positivitätsrate der letzten sieben Tage liegt bei 17.9 %
 In den letzten sieben Tagen wurden pro Tag durchschnittlich 3692 Fälle gemeldet. Das sind -0.5 % weniger als der Durchschnitt der sieben Tage davor (3711).
 
 
-Gestern waren 2.52 Mio. SwissCovid-Apps aktiv. Das sind 84.0 % der erwünschten 3 Mio. aktiven Apps. 
+Gestern waren 1.83 Mio. SwissCovid-Apps aktiv. Das sind 61.0 % der erwünschten 3 Mio. aktiven Apps. 
 
 
 Der aktuell am stärksten betroffene Kanton ist zurzeit St. Gallen mit einer mittleren Inzidenz von 64.72 Fällen pro 100'000 Einwohner*innen (gemittelt über sieben Tage).
