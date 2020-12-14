@@ -1,17 +1,14 @@
 Corona-Briefing vom 14/12/2020
 
 
-Das BAG veröffentlicht von Montag bis Freitag jeweils um die Mittagszeit die aktuellen Daten. Zurzeit finden Sie hier noch den Stand des letzten Werktags.
+Heute melden die Labore total 10784 neue Fälle. Diese neu diagnostizierten Fälle verteilen sich auf die vergangenen Tage.
+
+Die durchschnittliche Positivitätsrate der letzten sieben Tage liegt bei 17.1 %, also deutlich über den von der WHO empfohlenen 5 %. Die Anzahl Erkrankter wird wahrscheinlich unterschätzt.
+
+In den letzten sieben Tagen wurden pro Tag durchschnittlich 4122 Fälle gemeldet. Das sind 6.9 % weniger als der Durchschnitt der sieben Tage davor (3856).
 
 
-Am Sonntag meldeten die Labore total 5204 neue Fälle. Diese neu diagnostizierten Fälle verteilten sich auf die vergangenen Tage.
-
-Die durchschnittliche Positivitätsrate der letzten sieben Tage lag am Sonntag bei 17.6 %, also deutlich über den von der WHO empfohlenen 5 %. Die Anzahl Erkrankter wird wahrscheinlich unterschätzt.
-
-In den sieben Tagen vor Sonntag wurden pro Tag durchschnittlich 3894 Fälle gemeldet. Das waren 5.1 % weniger als der Durchschnitt der sieben Tage davor (3704).
+Gestern waren 1.82 Mio. SwissCovid-Apps aktiv. Das sind 60.7 % der erwünschten 3 Mio. aktiven Apps. 
 
 
-Zuletzt waren 1.82 Mio. SwissCovid-Apps aktiv. Das sind 60.7 % der erwünschten 3 Mio. aktiven Apps. 
-
-
-Der aktuell am stärksten betroffene Kanton war am Sonntag St. Gallen mit einer mittleren Inzidenz von 69.14 Fällen pro 100'000 Einwohner*innen (gemittelt über sieben Tage).
+Der aktuell am stärksten betroffene Kanton ist zurzeit St. Gallen mit einer mittleren Inzidenz von 70.57 Fällen pro 100'000 Einwohner*innen (gemittelt über sieben Tage).
