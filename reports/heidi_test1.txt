@@ -8,7 +8,7 @@ Die durchschnittliche Positivitätsrate der letzten sieben Tage liegt bei 14.4 %
 In den letzten sieben Tagen wurden pro Tag durchschnittlich 3993 Fälle gemeldet. Das sind -0.9 % weniger als der Durchschnitt der sieben Tage davor (4031).
 
 
-Gestern waren 1.81 Mio. SwissCovid-Apps aktiv. Das sind 60.3 % der erwünschten 3 Mio. aktiven Apps. 
+Gestern waren 1.8 Mio. SwissCovid-Apps aktiv. Das sind 60.0 % der erwünschten 3 Mio. aktiven Apps. 
 
 
 Der aktuell am stärksten betroffene Kanton ist zurzeit Tessin mit einer mittleren Inzidenz von 74.13 Fällen pro 100'000 Einwohner*innen (gemittelt über sieben Tage).
