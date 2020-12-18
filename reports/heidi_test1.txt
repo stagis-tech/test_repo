@@ -1,14 +1,17 @@
-Corona-Briefing vom 18/12/2020
+Corona-Briefing vom 19/12/2020
 
 
-Heute melden die Labore total 4570 neue Fälle. Diese neu diagnostizierten Fälle verteilen sich auf die vergangenen Tage.
-
-Die durchschnittliche Positivitätsrate der letzten sieben Tage liegt bei 13.9 %, also deutlich über den von der WHO empfohlenen 5 %. Die Anzahl Erkrankter wird wahrscheinlich unterschätzt.
-
-In den letzten sieben Tagen wurden pro Tag durchschnittlich 3965 Fälle gemeldet. Das sind -4.5 % weniger als der Durchschnitt der sieben Tage davor (4151).
+Das BAG veröffentlicht von Montag bis Freitag jeweils um die Mittagszeit die aktuellen Daten. Zurzeit finden Sie hier noch den Stand des letzten Werktags.
 
 
-Gestern waren 1.8 Mio. SwissCovid-Apps aktiv. Das sind 60.0 % der erwünschten 3 Mio. aktiven Apps. 
+Am Freitag meldeten die Labore total 4570 neue Fälle. Diese neu diagnostizierten Fälle verteilten sich auf die vergangenen Tage.
+
+Die durchschnittliche Positivitätsrate der letzten sieben Tage lag am Freitag bei 13.9 %, also deutlich über den von der WHO empfohlenen 5 %. Die Anzahl Erkrankter wird wahrscheinlich unterschätzt.
+
+In den sieben Tagen vor Freitag wurden pro Tag durchschnittlich 3965 Fälle gemeldet. Das waren -4.5 % weniger als der Durchschnitt der sieben Tage davor (4151).
 
 
-Der aktuell am stärksten betroffene Kanton ist zurzeit Tessin mit einer mittleren Inzidenz von 78.04 Fällen pro 100'000 Einwohner*innen (gemittelt über sieben Tage).
+Zuletzt waren 1.8 Mio. SwissCovid-Apps aktiv. Das sind 60.0 % der erwünschten 3 Mio. aktiven Apps. 
+
+
+Der aktuell am stärksten betroffene Kanton war am Freitag Tessin mit einer mittleren Inzidenz von 78.04 Fällen pro 100'000 Einwohner*innen (gemittelt über sieben Tage).
