@@ -1,17 +1,14 @@
 Corona-Briefing vom 13/01/2021
 
 
-Das BAG veröffentlicht von Montag bis Freitag jeweils um die Mittagszeit die aktuellen Daten. Zurzeit finden Sie hier noch den Stand des letzten Werktags.
+Heute melden die Labore total 3083 neue Fälle. Diese neu diagnostizierten Fälle verteilen sich auf die vergangenen Tage.
+
+Die durchschnittliche Positivitätsrate der letzten sieben Tage liegt bei 13.6 %, also deutlich über den von der WHO empfohlenen 5 %. Die Anzahl Erkrankter wird wahrscheinlich unterschätzt.
+
+In den letzten sieben Tagen wurden pro Tag durchschnittlich 2532 Fälle gemeldet. Das sind -24.9 % weniger als der Durchschnitt der sieben Tage davor (3372).
 
 
-Am Dienstag meldeten die Labore total 2892 neue Fälle. Diese neu diagnostizierten Fälle verteilten sich auf die vergangenen Tage.
-
-Die durchschnittliche Positivitätsrate der letzten sieben Tage lag am Dienstag bei 14.4 %, also deutlich über den von der WHO empfohlenen 5 %. Die Anzahl Erkrankter wird wahrscheinlich unterschätzt.
-
-In den sieben Tagen vor Dienstag wurden pro Tag durchschnittlich 2701 Fälle gemeldet. Das waren -19.0 % weniger als der Durchschnitt der sieben Tage davor (3336).
+Gestern waren 1.89 Mio. SwissCovid-Apps aktiv. Das sind 63.0 % der erwünschten 3 Mio. aktiven Apps. 
 
 
-Zuletzt waren 1.89 Mio. SwissCovid-Apps aktiv. Das sind 63.0 % der erwünschten 3 Mio. aktiven Apps. 
-
-
-Der aktuell am stärksten betroffene Kanton war am Dienstag Glarus mit einer mittleren Inzidenz von 65.46 Fällen pro 100'000 Einwohner*innen (gemittelt über sieben Tage).
+Der aktuell am stärksten betroffene Kanton ist zurzeit Glarus mit einer mittleren Inzidenz von 66.17 Fällen pro 100'000 Einwohner*innen (gemittelt über sieben Tage).
