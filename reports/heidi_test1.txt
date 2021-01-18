@@ -8,7 +8,7 @@ Die durchschnittliche Positivitätsrate der letzten sieben Tage liegt bei 12.0 %
 In den letzten sieben Tagen wurden pro Tag durchschnittlich 2102 Fälle gemeldet. Das sind -35.8 % weniger als der Durchschnitt der sieben Tage davor (3272).
 
 
-Gestern waren 2.29 Mio. SwissCovid-Apps aktiv. Das sind 76.3 % der erwünschten 3 Mio. aktiven Apps. 
+Gestern waren 1.98 Mio. SwissCovid-Apps aktiv. Das sind 66.0 % der erwünschten 3 Mio. aktiven Apps. 
 
 
 Der aktuell am stärksten betroffene Kanton ist zurzeit Jura mit einer mittleren Inzidenz von 39.22 Fällen pro 100'000 Einwohner*innen (gemittelt über sieben Tage).
