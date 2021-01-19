@@ -1,14 +1,17 @@
-Corona-Briefing vom 19/01/2021
+Corona-Briefing vom 20/01/2021
 
 
-Heute melden die Labore total 2319 neue Fälle. Diese neu diagnostizierten Fälle verteilen sich auf die vergangenen Tage.
-
-Die durchschnittliche Positivitätsrate der letzten sieben Tage liegt bei 11.8 %, also deutlich über den von der WHO empfohlenen 5 %. Die Anzahl Erkrankter wird wahrscheinlich unterschätzt.
-
-In den letzten sieben Tagen wurden pro Tag durchschnittlich 1929 Fälle gemeldet. Das sind -38.6 % weniger als der Durchschnitt der sieben Tage davor (3140).
+Das BAG veröffentlicht von Montag bis Freitag jeweils um die Mittagszeit die aktuellen Daten. Zurzeit finden Sie hier noch den Stand des letzten Werktags.
 
 
-Gestern waren 1.92 Mio. SwissCovid-Apps aktiv. Das sind 64.0 % der erwünschten 3 Mio. aktiven Apps. 
+Am Dienstag meldeten die Labore total 2319 neue Fälle. Diese neu diagnostizierten Fälle verteilten sich auf die vergangenen Tage.
+
+Die durchschnittliche Positivitätsrate der letzten sieben Tage lag am Dienstag bei 11.8 %, also deutlich über den von der WHO empfohlenen 5 %. Die Anzahl Erkrankter wird wahrscheinlich unterschätzt.
+
+In den sieben Tagen vor Dienstag wurden pro Tag durchschnittlich 1929 Fälle gemeldet. Das waren -38.6 % weniger als der Durchschnitt der sieben Tage davor (3140).
 
 
-Der aktuell am stärksten betroffene Kanton ist zurzeit Jura mit einer mittleren Inzidenz von 40.19 Fällen pro 100'000 Einwohner*innen (gemittelt über sieben Tage).
+Zuletzt waren 1.92 Mio. SwissCovid-Apps aktiv. Das sind 64.0 % der erwünschten 3 Mio. aktiven Apps. 
+
+
+Der aktuell am stärksten betroffene Kanton war am Dienstag Jura mit einer mittleren Inzidenz von 40.19 Fällen pro 100'000 Einwohner*innen (gemittelt über sieben Tage).
