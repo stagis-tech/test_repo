@@ -1,17 +1,14 @@
 Corona-Briefing vom 02/02/2021
 
 
-Das BAG veröffentlicht von Montag bis Freitag jeweils um die Mittagszeit die aktuellen Daten. Zurzeit finden Sie hier noch den Stand des letzten Werktags.
+Heute melden die Labore total 1681 neue Fälle. Diese neu diagnostizierten Fälle verteilen sich auf die vergangenen Tage.
+
+Die durchschnittliche Positivitätsrate der letzten sieben Tage liegt bei 8.0 %, also deutlich über den von der WHO empfohlenen 5 %. Die Anzahl Erkrankter wird wahrscheinlich unterschätzt.
+
+In den letzten sieben Tagen wurden pro Tag durchschnittlich 1466 Fälle gemeldet. Das sind -23.8 % weniger als der Durchschnitt der sieben Tage davor (1923).
 
 
-Am Montag meldeten die Labore total 3889 neue Fälle. Diese neu diagnostizierten Fälle verteilten sich auf die vergangenen Tage.
-
-Die durchschnittliche Positivitätsrate der letzten sieben Tage lag am Montag bei 8.4 %, also deutlich über den von der WHO empfohlenen 5 %. Die Anzahl Erkrankter wird wahrscheinlich unterschätzt.
-
-In den sieben Tagen vor Montag wurden pro Tag durchschnittlich 1591 Fälle gemeldet. Das waren -18.2 % weniger als der Durchschnitt der sieben Tage davor (1946).
+Gestern waren nan Mio. SwissCovid-Apps aktiv. Das sind nan % der erwünschten 3 Mio. aktiven Apps. 
 
 
-Zuletzt waren nan Mio. SwissCovid-Apps aktiv. Das sind nan % der erwünschten 3 Mio. aktiven Apps. 
-
-
-Der aktuell am stärksten betroffene Kanton war am Montag Jura mit einer mittleren Inzidenz von 31.26 Fällen pro 100'000 Einwohner*innen (gemittelt über sieben Tage).
+Der aktuell am stärksten betroffene Kanton ist zurzeit Jura mit einer mittleren Inzidenz von 30.09 Fällen pro 100'000 Einwohner*innen (gemittelt über sieben Tage).
