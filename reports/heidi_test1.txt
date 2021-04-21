@@ -1,17 +1,14 @@
 Corona-Briefing vom 21/04/2021
 
 
-Das BAG veröffentlicht von Montag bis Freitag jeweils um die Mittagszeit die aktuellen Daten. Zurzeit finden Sie hier noch den Stand des letzten Werktags.
+Heute melden die Labore total 2724 neue Fälle. Diese neu diagnostizierten Fälle verteilen sich auf die vergangenen Tage.
+
+Die durchschnittliche Positivitätsrate der letzten sieben Tage liegt bei 8.8 %, also deutlich über den von der WHO empfohlenen 5 %. Die Anzahl Erkrankter wird wahrscheinlich unterschätzt.
+
+In den letzten sieben Tagen wurden pro Tag durchschnittlich 1895 Fälle gemeldet. Das sind -14.8 % weniger als der Durchschnitt der sieben Tage davor (2225).
 
 
-Am Dienstag meldeten die Labore total 2172 neue Fälle. Diese neu diagnostizierten Fälle verteilten sich auf die vergangenen Tage.
-
-Die durchschnittliche Positivitätsrate der letzten sieben Tage lag am Dienstag bei 8.7 %, also deutlich über den von der WHO empfohlenen 5 %. Die Anzahl Erkrankter wird wahrscheinlich unterschätzt.
-
-In den sieben Tagen vor Dienstag wurden pro Tag durchschnittlich 1853 Fälle gemeldet. Das waren -8.1 % weniger als der Durchschnitt der sieben Tage davor (2017).
+Gestern waren 1.8 Mio. SwissCovid-Apps aktiv. Das sind 60.0 % der erwünschten 3 Mio. aktiven Apps. 
 
 
-Zuletzt waren 1.8 Mio. SwissCovid-Apps aktiv. Das sind 60.0 % der erwünschten 3 Mio. aktiven Apps. 
-
-
-Der aktuell am stärksten betroffene Kanton war am Dienstag Uri mit einer mittleren Inzidenz von 64.6 Fällen pro 100'000 Einwohner*innen (gemittelt über sieben Tage).
+Der aktuell am stärksten betroffene Kanton ist zurzeit Uri mit einer mittleren Inzidenz von 67.32 Fällen pro 100'000 Einwohner*innen (gemittelt über sieben Tage).
