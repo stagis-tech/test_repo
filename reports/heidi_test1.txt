@@ -1,14 +1,17 @@
-Corona-Briefing vom 03/05/2021
+Corona-Briefing vom 04/05/2021
 
 
-Heute melden die Labore total 4047 neue Fälle. Diese neu diagnostizierten Fälle verteilen sich auf die vergangenen Tage.
-
-Die durchschnittliche Positivitätsrate der letzten sieben Tage liegt bei 7.6 %, also deutlich über den von der WHO empfohlenen 5 %. Die Anzahl Erkrankter wird wahrscheinlich unterschätzt.
-
-In den letzten sieben Tagen wurden pro Tag durchschnittlich 1639 Fälle gemeldet. Das sind -20.4 % weniger als der Durchschnitt der sieben Tage davor (2058).
+Das BAG veröffentlicht von Montag bis Freitag jeweils um die Mittagszeit die aktuellen Daten. Zurzeit finden Sie hier noch den Stand des letzten Werktags.
 
 
-Gestern waren 1.8 Mio. SwissCovid-Apps aktiv. Das sind 60.0 % der erwünschten 3 Mio. aktiven Apps. 
+Am Montag meldeten die Labore total 4047 neue Fälle. Diese neu diagnostizierten Fälle verteilten sich auf die vergangenen Tage.
+
+Die durchschnittliche Positivitätsrate der letzten sieben Tage lag am Montag bei 7.6 %, also deutlich über den von der WHO empfohlenen 5 %. Die Anzahl Erkrankter wird wahrscheinlich unterschätzt.
+
+In den sieben Tagen vor Montag wurden pro Tag durchschnittlich 1639 Fälle gemeldet. Das waren -20.4 % weniger als der Durchschnitt der sieben Tage davor (2058).
 
 
-Der aktuell am stärksten betroffene Kanton ist zurzeit Uri mit einer mittleren Inzidenz von 57.6 Fällen pro 100'000 Einwohner*innen (gemittelt über sieben Tage).
+Zuletzt waren 1.8 Mio. SwissCovid-Apps aktiv. Das sind 60.0 % der erwünschten 3 Mio. aktiven Apps. 
+
+
+Der aktuell am stärksten betroffene Kanton war am Montag Uri mit einer mittleren Inzidenz von 57.6 Fällen pro 100'000 Einwohner*innen (gemittelt über sieben Tage).
