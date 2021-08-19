@@ -1,14 +1,17 @@
-Corona-Briefing vom 19/08/2021
+Corona-Briefing vom 20/08/2021
 
 
-Heute melden die Labore total 2853 neue Fälle. Diese neu diagnostizierten Fälle verteilen sich auf die vergangenen Tage.
-
-Die durchschnittliche Positivitätsrate der letzten sieben Tage liegt bei 13.6 %, also deutlich über den von der WHO empfohlenen 5 %. Die Anzahl Erkrankter wird wahrscheinlich unterschätzt.
-
-In den letzten sieben Tagen wurden pro Tag durchschnittlich 2292 Fälle gemeldet. Das sind 65.0 % weniger als der Durchschnitt der sieben Tage davor (1389).
+Das BAG veröffentlicht von Montag bis Freitag jeweils um die Mittagszeit die aktuellen Daten. Zurzeit finden Sie hier noch den Stand des letzten Werktags.
 
 
-Gestern waren 1.64 Mio. SwissCovid-Apps aktiv. Das sind 54.7 % der erwünschten 3 Mio. aktiven Apps. 
+Am Donnerstag meldeten die Labore total 2853 neue Fälle. Diese neu diagnostizierten Fälle verteilten sich auf die vergangenen Tage.
+
+Die durchschnittliche Positivitätsrate der letzten sieben Tage lag am Donnerstag bei 13.6 %, also deutlich über den von der WHO empfohlenen 5 %. Die Anzahl Erkrankter wird wahrscheinlich unterschätzt.
+
+In den sieben Tagen vor Donnerstag wurden pro Tag durchschnittlich 2292 Fälle gemeldet. Das waren 65.0 % weniger als der Durchschnitt der sieben Tage davor (1389).
 
 
-Der aktuell am stärksten betroffene Kanton ist zurzeit Glarus mit einer mittleren Inzidenz von 45.75 Fällen pro 100'000 Einwohner*innen (gemittelt über sieben Tage).
+Zuletzt waren 1.64 Mio. SwissCovid-Apps aktiv. Das sind 54.7 % der erwünschten 3 Mio. aktiven Apps. 
+
+
+Der aktuell am stärksten betroffene Kanton war am Donnerstag Glarus mit einer mittleren Inzidenz von 45.75 Fällen pro 100'000 Einwohner*innen (gemittelt über sieben Tage).
